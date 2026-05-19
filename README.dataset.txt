@@ -1,5 +1,5 @@
-# licence plate  > 2024-01-26 9:58pm
-https://universe.roboflow.com/licence-number-plate-india/licence-plate-jm79v
+# Black license plate > 2024-03-20 1:28pm
+https://universe.roboflow.com/license-plate-xratz/black-license-plate
 
 Provided by a Roboflow user
 License: CC BY 4.0
