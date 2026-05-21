@@ -2,7 +2,7 @@ import os
 from ultralytics import YOLO
 import cv2
 
-model = YOLO(r'runs/detect/train-3/weights/best.pt')
+model = YOLO(r'D:\Projects\plate_blur\runs\detect\train-8\weights\best.pt')
 input_path = r'D:\Projects\plate_blur\test\images'
 output_path = r'D:\Projects\plate_blur\blurred_results'
 
